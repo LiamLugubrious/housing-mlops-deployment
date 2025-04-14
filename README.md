@@ -2,7 +2,8 @@
 
 # Housing Price Prediction - Web App Deployment
 
-This project demonstrates a simple machine learning deployment using Gradio. It uses a pre-trained linear regression model to predict housing prices based on user input.
+This project demonstrates a simple machine learning deployment using Gradio. 
+It uses a pre-trained linear regression model to predict housing prices based on user input.
 
 ## Files Included
 

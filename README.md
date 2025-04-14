@@ -14,7 +14,8 @@ It uses a pre-trained linear regression model to predict housing prices based on
 ## How to Use
 
 1. **Clone the repository**:
-git clone https://github.com/LiamLugubrious/housing-mlops-deployment.git ,then, cd housing-mlops-deployment
+git clone https://github.com/LiamLugubrious/housing-mlops-deployment.git,
+then, cd housing-mlops-deployment
 
 
 2. **Install required libraries**:

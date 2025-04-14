@@ -24,15 +24,17 @@ pip install gradio pandas joblib scikit-learn
 3. **Run the application**:
 python app.py
 
-4. The Gradio web interface will open in your browser where you can enter:
+4. The Gradio web interface will create a URL that you can use in your browser where you can enter:
 - Area (in square feet)
 - Number of bedrooms
 - Number of bathrooms
 
 and get a predicted house price.
+5 **Qutting the Server/Application**
+If using CMD press Crtl+C!
 
 ## Purpose
 
-This is part of my assignment which builds on the previous lab I did
+This is part of my assignment, which builds on the previous lab I did
 by using the trained model we got from the lab and creating a user interface
 for making live predictions. It is part of an introduction to using MLOps pipeline.
